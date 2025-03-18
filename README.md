@@ -1,18 +1,18 @@
-Todo-App
+# Todo-App
 A cross platform todo app for android and ios with flutter
 
-## Getting Started
+# Getting Started
 
 This project uses flutter to create a cross platform todo app for android and ios.
 
-## Features
+# Features
 
 - Sign Up And Sign In With Google account or other providers.
 - View Todos Created By User.
 - Todo Management (Create, Update, Delete).
 - Account Management (Sign Out).
 
-## Technologies
+#  Technologies
 
 - Flutter
 - Dart
@@ -20,28 +20,28 @@ This project uses flutter to create a cross platform todo app for android and io
 - Flask (api already created in my public repos)
 - Google Sign In authentication in api
 
-## Setup
+#  Setup
 
 - Clone the repo
 - Run `flutter pub get` to install dependencies
 - Run `flutter run` to run the app
 
 
-## Api Setup
+# Api Setup
 
 - Clone the todo_api repo
 - Create virtual environment
 - Run `pip install -r requirements.txt` to install dependencies
 - Run `flask run` to run the api
 
-## Project Structure
+# Project Structure
 
 - `lib` folder contains the main code
 - `screens` folder contains the screens
 - `widgets` folder contains the widgets
 
 
-## Project State
+# Project State
 
 **Tick means done**
 **Dash means not done but in progress**
@@ -54,9 +54,9 @@ This project uses flutter to create a cross platform todo app for android and io
 - [-] Account Management
 
 
-## Project Status
-**Current Status** 
-*Not Finished In Progress*
+# Project Status
+## Current Status
+***Not Finished In Progress*
 *App Bar Created* 
  *Login Screen Initially Created (No Content)*
  *Todo Screen Initially Created (No Content)*
