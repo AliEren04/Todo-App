@@ -1,6 +1,5 @@
-# todo
-
-A new Flutter project.
+Todo-App
+A cross platform todo app for android and ios with flutter
 
 ## Getting Started
 
