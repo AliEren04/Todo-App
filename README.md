@@ -50,8 +50,8 @@ This project uses flutter to create a cross platform todo app for android and io
 - [-] Login Screen
 - [-] Todo Screen
 - [-] Bottom Navigation Bar
-- [ ] Todo Management
-- [ ] Account Management
+- [-] Todo Management
+- [-] Account Management
 
 
 ## Project Status
