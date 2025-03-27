@@ -56,11 +56,10 @@ This project uses flutter to create a cross platform todo app for android and io
 
 # Project Status
 ## Current Status
-***Not Finished In Progress*
-**App Bar Created** 
-**Login Screen Initially Created (No Content)**
-**Todo Screen Initially Created (No Content)**
-**Bottom Navigation Bar Initially Created (No Functionality Only State Management Without Navigation)**
+### Not Finished In Progress
+**App Bar Created For All Screens** 
+**All Screens Initially Created**
+**Bottom Navigation Bar Created And Functional**
  
 
 ## Features To Add
