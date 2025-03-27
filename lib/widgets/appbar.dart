@@ -10,7 +10,7 @@ class AppBarWidget extends StatelessWidget {
     return PreferredSize(
       preferredSize: const Size.fromHeight(50),
       child: AppBar(
-        title: const Text('Todo App'),
+        title: const Center(child: Text('Todo App')),
       ),
     );
   }
